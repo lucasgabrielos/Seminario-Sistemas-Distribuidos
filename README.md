@@ -2,12 +2,12 @@
 Seminário da cadeira de sistemas distribuídos do curso de ciência da computação - Turma 8NA
 Alunos: 
 
-Lucas Gabriel - 01494048
-Fábio Rodrigues  - 01464801
-Rodrigo Luiz  - 01466505
-Matheus braynner silva de souza - 01364197
-Victor Nascimento - 01434639
-Aline Morais - 01433875
+Lucas Gabriel - 01494048 / 
+Fábio Rodrigues  - 01464801 / 
+Rodrigo Luiz  - 01466505 / 
+Matheus braynner silva de souza - 01364197 / 
+Victor Nascimento - 01434639 / 
+Aline Morais - 01433875 / 
 
 # README: Ataques em Sistemas Distribuídos
 
