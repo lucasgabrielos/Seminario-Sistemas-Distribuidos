@@ -1,7 +1,8 @@
 # Seminario-Sistemas-Distribuidos
 Seminário da cadeira de sistemas distribuídos do curso de ciência da computação - Turma 8NA
-Alunos: 
 
+
+Alunos: 
 Lucas Gabriel - 01494048 / 
 Fábio Rodrigues  - 01464801 / 
 Rodrigo Luiz  - 01466505 / 
