@@ -75,4 +75,10 @@ A segurança em sistemas distribuídos é um campo crítico e em constante evolu
 - [Distributed Systems: Principles and Paradigms](https://www.example.com)
 - [Security in Distributed Systems](https://www.example.com)
 
+## SLIDES DO SEMINÁRIO
+
+[Apresentaç~~ao (1).pdf](https://github.com/user-attachments/files/17134541/Apresentac.ao.1.pdf)
+
+
+
 ---
